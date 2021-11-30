@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200904T180000Z
+DTEND:20200904T183000Z
+DTSTAMP:20200904T063247Z
+ORGANIZER;CN=ikigaimarketer@gmail.com:mailto:ikigaimarketer@gmail.com
+UID:64ssq9gaoqltb2280k5kfutjp4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabrielab@continentalvet.pe;X-NUM-GUESTS=0:mailto:gabrielab@contine
+ ntalvet.pe
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=continentalvet@gmail.com;X-NUM-GUESTS=0:mailto:continentalvet@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=ikigaimarketer@gmail.com;X-NUM-GUESTS=0:mailto:ikigaimarketer@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1526596918
+CREATED:20200904T063201Z
+DESCRIPTION:\n──────────\nIkigai Marketer le está invitando a una reunión d
+ e Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j/8
+ 6015891552?pwd=ZCtNUEsvODBBV3U5TzRrckdiQTlRUT09\n\nID de reunión: 860 1589 
+ 1552\nCódigo de acceso: 377897\nMóvil con un toque\n+16699006833\,\,8601589
+ 1552#\,\,\,\,\,\,0#\,\,377897# Estados Unidos de América (San Jose)\n+19294
+ 362866\,\,86015891552#\,\,\,\,\,\,0#\,\,377897# Estados Unidos de América (
+ New York)\n\nMarcar según su ubicación\n        +1 669 900 6833 Estados Uni
+ dos de América (San Jose)\n        +1 929 436 2866 Estados Unidos de Améric
+ a (New York)\n        +1 253 215 8782 Estados Unidos de América (Tacoma)\n 
+        +1 301 715 8592 Estados Unidos de América (Germantown)\n        +1 3
+ 12 626 6799 Estados Unidos de América (Chicago)\n        +1 346 248 7799 Es
+ tados Unidos de América (Houston)\nID de reunión: 860 1589 1552\nCódigo de 
+ acceso: 377897\nEncuentre su número local: https://us02web.zoom.us/u/khwgev
+ upS\n\n──────────\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción
+ .\n\nEste evento tiene una videollamada.\nUnirse: https://meet.google.com/i
+ gv-waec-vsq\n\nVisualice el evento en la URL https://www.google.com/calenda
+ r/event?action=VIEW&eid=NjRzc3E5Z2FvcWx0YjIyODBrNWtmdXRqcDQgZ2FicmllbGFiQGN
+ vbnRpbmVudGFsdmV0LnBl&tok=MjQjaWtpZ2FpbWFya2V0ZXJAZ21haWwuY29tYjMxNDA3YjE3O
+ GY2NzA0ZGE4MDVhNTYxZTZjYTM3NmYxOWQ1ZjM1Zg&ctz=America%2FLima&hl=es&es=1.\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20200904T063246Z
+LOCATION:https://us02web.zoom.us/j/86015891552?pwd=ZCtNUEsvODBBV3U5TzRrckdi
+ QTlRUT09
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Puesta en marcha IKigaiCRM Continetal VET
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200911T230000Z
+DTEND:20200911T233000Z
+DTSTAMP:20200911T194845Z
+ORGANIZER;CN=ikigaimarketer@gmail.com:mailto:ikigaimarketer@gmail.com
+UID:37mrkmpg18vu29jbd51es8rfqd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabrielab@continentalvet.pe;X-NUM-GUESTS=0:mailto:gabrielab@contine
+ ntalvet.pe
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=ikigaimarketer@gmail.com;X-NUM-GUESTS=0:mailto:ikigaimarketer@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gbonilla@continentalvet.pe;X-NUM-GUESTS=0:mailto:gbonilla@continent
+ alvet.pe
+X-MICROSOFT-CDO-OWNERAPPTID:-950323804
+CREATED:20200911T194801Z
+DESCRIPTION:\n──────────\nIkigai Marketer le está invitando a una reunión d
+ e Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j/8
+ 8613010449?pwd=RTRJVURqVitBS0pQNU5KbzNhbHgxUT09\n\nID de reunión: 886 1301 
+ 0449\nCódigo de acceso: 786531\nMóvil con un toque\n+13017158592\,\,8861301
+ 0449#\,\,\,\,\,\,0#\,\,786531# Estados Unidos de América (Germantown)\n+131
+ 26266799\,\,88613010449#\,\,\,\,\,\,0#\,\,786531# Estados Unidos de América
+  (Chicago)\n\nMarcar según su ubicación\n        +1 301 715 8592 Estados Un
+ idos de América (Germantown)\n        +1 312 626 6799 Estados Unidos de Amé
+ rica (Chicago)\n        +1 346 248 7799 Estados Unidos de América (Houston)
+ \n        +1 669 900 6833 Estados Unidos de América (San Jose)\n        +1 
+ 929 436 2866 Estados Unidos de América (New York)\n        +1 253 215 8782 
+ Estados Unidos de América (Tacoma)\nID de reunión: 886 1301 0449\nCódigo de
+  acceso: 786531\nEncuentre su número local: https://us02web.zoom.us/u/kdKWV
+ VGM5N\n\n──────────\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripci
+ ón.\n\nVisualice el evento en la URL https://www.google.com/calendar/event?
+ action=VIEW&eid=MzdtcmttcGcxOHZ1MjlqYmQ1MWVzOHJmcWQgZ2FicmllbGFiQGNvbnRpbmV
+ udGFsdmV0LnBl&tok=MjQjaWtpZ2FpbWFya2V0ZXJAZ21haWwuY29tYjY4MTM1NmMyMTVjNGViY
+ TQxN2E0MDExM2Q3YTQyZDI3NDg0ODdmYw&ctz=America%2FLima&hl=es&es=1.\n-::~:~::~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+LAST-MODIFIED:20200911T194844Z
+LOCATION:https://us02web.zoom.us/j/88613010449?pwd=RTRJVURqVitBS0pQNU5KbzNh
+ bHgxUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Entrega CRM Continental Vet
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

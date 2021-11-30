@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200820T180000Z
+DTEND:20200820T183000Z
+DTSTAMP:20200820T035746Z
+ORGANIZER;CN=jose@ioxolutions.com:mailto:jose@ioxolutions.com
+UID:5anheqmglcip36mpgcjvbj185t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabrielab@continentalvet.pe;X-NUM-GUESTS=0:mailto:gabrielab@contine
+ ntalvet.pe
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=jose@ioxolutions.com;X-NUM-GUESTS=0:mailto:jose@ioxolutions.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=continentalvet@gmail.com;X-NUM-GUESTS=0:mailto:continentalvet@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Arturo Melchor;X-NUM-GUESTS=0:mailto:amelchor@ioxolutions.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=carlos@quipu8.pe;X-NUM-GUESTS=0:mailto:carlos@quipu8.pe
+X-MICROSOFT-CDO-OWNERAPPTID:484506255
+CREATED:20200820T035328Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción.\n\nEste
+  evento tiene una videollamada.\nUnirse: https://meet.google.com/xnh-jhpi-u
+ dc\n(US) +1 209-781-9499 PIN: 348450614#\n\nVisualice el evento en la URL h
+ ttps://www.google.com/calendar/event?action=VIEW&eid=NWFuaGVxbWdsY2lwMzZtcG
+ djanZiajE4NXQgZ2FicmllbGFiQGNvbnRpbmVudGFsdmV0LnBl&tok=MjAjam9zZUBpb3hvbHV0
+ aW9ucy5jb20zNDgzMWM0YmUxZTk1NTlkMjdjZWI3ZjRkZmMwMmZkZjE1ZGZmODJh&ctz=Americ
+ a%2FLima&hl=es&es=0.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200820T035745Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Tour virtual Q8 ERP
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200909T220000Z
+DTEND:20200909T223000Z
+DTSTAMP:20200909T172417Z
+ORGANIZER;CN=ikigaimarketer@gmail.com:mailto:ikigaimarketer@gmail.com
+UID:7klk6e1mevnb957fc4mmncqeir@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabrielab@continentalvet.pe;X-NUM-GUESTS=0:mailto:gabrielab@contine
+ ntalvet.pe
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=ikigaimarketer@gmail.com;X-NUM-GUESTS=0:mailto:ikigaimarketer@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gbonilla@continentalvet.pe;X-NUM-GUESTS=0:mailto:gbonilla@continent
+ alvet.pe
+X-MICROSOFT-CDO-OWNERAPPTID:151019105
+CREATED:20200909T172341Z
+DESCRIPTION:\n──────────\nIkigai Marketer le está invitando a una reunión d
+ e Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j/8
+ 5762181409?pwd=TDEreUxXanhoekFMOGJ3Uzl3WDZHUT09\n\nID de reunión: 857 6218 
+ 1409\nCódigo de acceso: 490009\nMóvil con un toque\n+13462487799\,\,8576218
+ 1409#\,\,\,\,\,\,0#\,\,490009# Estados Unidos de América (Houston)\n+166990
+ 06833\,\,85762181409#\,\,\,\,\,\,0#\,\,490009# Estados Unidos de América (S
+ an Jose)\n\nMarcar según su ubicación\n        +1 346 248 7799 Estados Unid
+ os de América (Houston)\n        +1 669 900 6833 Estados Unidos de América 
+ (San Jose)\n        +1 929 436 2866 Estados Unidos de América (New York)\n 
+        +1 253 215 8782 Estados Unidos de América (Tacoma)\n        +1 301 7
+ 15 8592 Estados Unidos de América (Germantown)\n        +1 312 626 6799 Est
+ ados Unidos de América (Chicago)\nID de reunión: 857 6218 1409\nCódigo de a
+ cceso: 490009\nEncuentre su número local: https://us02web.zoom.us/u/kcsh89e
+ dzw\n\n──────────\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción
+ .\n\nVisualice el evento en la URL https://www.google.com/calendar/event?ac
+ tion=VIEW&eid=N2tsazZlMW1ldm5iOTU3ZmM0bW1uY3FlaXIgZ2JvbmlsbGFAY29udGluZW50Y
+ Wx2ZXQucGU&tok=MjQjaWtpZ2FpbWFya2V0ZXJAZ21haWwuY29tMzYxMmZlOTdiNTBlY2Y4NzM0
+ ZmZhMWNmYzc5Zjk3MmMwNTFiNzdkNQ&ctz=America%2FLima&hl=es&es=1.\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200909T172416Z
+LOCATION:https://us02web.zoom.us/j/85762181409?pwd=TDEreUxXanhoekFMOGJ3Uzl3
+ WDZHUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Demostración Customizacion CRM para Continetal VET
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
